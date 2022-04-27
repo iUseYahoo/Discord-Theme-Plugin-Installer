@@ -59,6 +59,8 @@ namespace ThemeInstaller
                 System.IO.Directory.CreateDirectory(discordpath);
                 //copy file (filename.css) to the discord theme folder
                 System.IO.File.Copy(sourceFile, destFile, true);
+                
+                addlog("[+] Installed Theme: '" + rawname + "'.");
 
                 addlog("[+] Installed Theme: '" + rawname + "'.");
 
