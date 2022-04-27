@@ -61,9 +61,6 @@ namespace ThemeInstaller
                 System.IO.File.Copy(sourceFile, destFile, true);
                 
                 addlog("[+] Installed Theme: '" + rawname + "'.");
-
-                addlog("[+] Installed Theme: '" + rawname + "'.");
-
             }
             else
             {
