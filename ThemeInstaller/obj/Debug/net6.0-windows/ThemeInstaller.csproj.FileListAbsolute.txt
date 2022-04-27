@@ -1,0 +1,17 @@
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\bin\Debug\net6.0-windows\ThemeInstaller.exe
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\bin\Debug\net6.0-windows\ThemeInstaller.deps.json
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\bin\Debug\net6.0-windows\ThemeInstaller.runtimeconfig.json
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\bin\Debug\net6.0-windows\ThemeInstaller.dll
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\bin\Debug\net6.0-windows\ThemeInstaller.pdb
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.csproj.AssemblyReference.cache
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.Form1.resources
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.csproj.GenerateResource.cache
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.AssemblyInfoInputs.cache
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.AssemblyInfo.cs
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.csproj.CoreCompileInputs.cache
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.dll
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\refint\ThemeInstaller.dll
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.pdb
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ThemeInstaller.genruntimeconfig.cache
+C:\Users\knich\source\repos\ThemeInstaller\ThemeInstaller\obj\Debug\net6.0-windows\ref\ThemeInstaller.dll

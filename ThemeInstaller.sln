@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeInstaller", "ThemeInstaller\ThemeInstaller.csproj", "{2F9069AD-DC72-4A39-BAFE-98EBC684F30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9069AD-DC72-4A39-BAFE-98EBC684F30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9069AD-DC72-4A39-BAFE-98EBC684F30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9069AD-DC72-4A39-BAFE-98EBC684F30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9069AD-DC72-4A39-BAFE-98EBC684F30D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11DE3B8-29B5-4758-8372-5527F582006C}
+	EndGlobalSection
+EndGlobal
