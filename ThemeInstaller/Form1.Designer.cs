@@ -66,6 +66,7 @@
             this.monoFlat_ThemeContainer1.StartPosition = System.Windows.Forms.FormStartPosition.WindowsDefaultLocation;
             this.monoFlat_ThemeContainer1.TabIndex = 0;
             this.monoFlat_ThemeContainer1.Text = "Discord Theme Installer";
+            this.monoFlat_ThemeContainer1.Click += new System.EventHandler(this.monoFlat_ThemeContainer1_Click);
             // 
             // monoFlat_Label1
             // 
@@ -161,7 +162,7 @@
             this.monoFlat_CheckBox1.Name = "monoFlat_CheckBox1";
             this.monoFlat_CheckBox1.Size = new System.Drawing.Size(167, 16);
             this.monoFlat_CheckBox1.TabIndex = 2;
-            this.monoFlat_CheckBox1.Text = "Discord Canary";
+            this.monoFlat_CheckBox1.Text = "Standard Discord";
             this.monoFlat_CheckBox1.CheckedChanged += new MonoFlat.MonoFlat_CheckBox.CheckedChangedEventHandler(this.monoFlat_CheckBox1_CheckedChanged);
             // 
             // button2
@@ -213,6 +214,11 @@
             this.monoFlat_ThemeContainer1.PerformLayout();
             this.ResumeLayout(false);
 
+        }
+
+        private void monoFlat_ThemeContainer1_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

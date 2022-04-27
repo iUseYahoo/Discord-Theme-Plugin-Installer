@@ -60,7 +60,10 @@ namespace ThemeInstaller
                 //copy file (filename.css) to the discord theme folder
                 System.IO.File.Copy(sourceFile, destFile, true);
 
-            } else
+                addlog("[+] Installed Theme: '" + rawname + "'.");
+
+            }
+            else
             {
                 addlog("[-] No theme was located.");
             }
@@ -79,7 +82,8 @@ namespace ThemeInstaller
             {
                 addlog("[+] Picked theme: " + ofd.FileName.ToString() + ".");
                 monoFlat_TextBox2.Text = ofd.FileName.ToString();
-            } else
+            }
+            else
             {
                 addlog("[-] Aborted theme picker.");
             }
