@@ -3,9 +3,7 @@
 This program allows you to install BetterDiscord themes easily.
 
 # Usage
-- 1. Click "Find Theme" then select your `.css` file and load it.
-- 2. Check the "Discord Canary" checkbox.
-- 3. Click "Install Theme" button.
+<img src=".assets/discordthemeinstallerusage.gif"/>
 
 # Downloads
 [BetterDiscord](https://betterdiscord.app/)
