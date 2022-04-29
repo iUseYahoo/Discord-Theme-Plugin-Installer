@@ -1,6 +1,6 @@
-# Theme Installer
-- Version - `v0.0.1`
-This program allows you to install BetterDiscord themes easily.
+# BetterDiscord Theme & Plugin Installer
+- Version - `v0.0.2`
+This program allows you to install BetterDiscord themes & plugins easily.
 
 # Usage
 <img src=".assets/discordthemeinstallerusage.gif"/>
