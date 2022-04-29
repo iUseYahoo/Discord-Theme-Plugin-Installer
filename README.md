@@ -7,3 +7,4 @@ This program allows you to install BetterDiscord themes easily.
 
 # Downloads
 [BetterDiscord](https://betterdiscord.app/)
+[Discord](https://discord.com/download)
