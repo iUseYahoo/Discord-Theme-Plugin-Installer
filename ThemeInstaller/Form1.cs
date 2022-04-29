@@ -81,12 +81,12 @@ namespace ThemeInstaller
             ofd.Filter = "Js Files (*.js)|*.js|All Files (*.*)|*.*";
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                addlog("[+] Picked theme: " + ofd.FileName.ToString() + ".");
+                addlog("[+] Picked plugin: " + ofd.FileName.ToString() + ".");
                 monoFlat_TextBox3.Text = ofd.FileName.ToString();
             }
             else
             {
-                addlog("[-] Aborted theme picker.");
+                addlog("[-] Aborted plugin picker.");
             }
         }
 
