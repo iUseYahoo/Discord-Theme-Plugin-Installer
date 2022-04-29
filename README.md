@@ -6,5 +6,4 @@ This program allows you to install BetterDiscord themes easily.
 <img src=".assets/discordthemeinstallerusage.gif"/>
 
 # Downloads
-[BetterDiscord](https://betterdiscord.app/)
-[Discord](https://discord.com/download)
+[BetterDiscord](https://betterdiscord.app/) and [Discord](https://discord.com/download).
