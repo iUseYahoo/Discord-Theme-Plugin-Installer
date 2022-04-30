@@ -179,12 +179,12 @@
             this.monoFlat_TextBox2.Font = new System.Drawing.Font("Tahoma", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.monoFlat_TextBox2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(176)))), ((int)(((byte)(183)))), ((int)(((byte)(191)))));
             this.monoFlat_TextBox2.Image = null;
-            this.monoFlat_TextBox2.Location = new System.Drawing.Point(132, 209);
+            this.monoFlat_TextBox2.Location = new System.Drawing.Point(125, 209);
             this.monoFlat_TextBox2.MaxLength = 32767;
             this.monoFlat_TextBox2.Multiline = false;
             this.monoFlat_TextBox2.Name = "monoFlat_TextBox2";
             this.monoFlat_TextBox2.ReadOnly = true;
-            this.monoFlat_TextBox2.Size = new System.Drawing.Size(510, 41);
+            this.monoFlat_TextBox2.Size = new System.Drawing.Size(515, 41);
             this.monoFlat_TextBox2.TabIndex = 16;
             this.monoFlat_TextBox2.TextAlignment = System.Windows.Forms.HorizontalAlignment.Left;
             this.monoFlat_TextBox2.UseSystemPasswordChar = false;
@@ -195,7 +195,7 @@
             this.monoFlat_Button3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.monoFlat_Button3.Image = null;
             this.monoFlat_Button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.monoFlat_Button3.Location = new System.Drawing.Point(393, 8);
+            this.monoFlat_Button3.Location = new System.Drawing.Point(394, 8);
             this.monoFlat_Button3.Name = "monoFlat_Button3";
             this.monoFlat_Button3.Size = new System.Drawing.Size(120, 26);
             this.monoFlat_Button3.TabIndex = 15;
@@ -209,7 +209,7 @@
             this.monoFlat_Button1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.monoFlat_Button1.Image = null;
             this.monoFlat_Button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.monoFlat_Button1.Location = new System.Drawing.Point(519, 8);
+            this.monoFlat_Button1.Location = new System.Drawing.Point(520, 8);
             this.monoFlat_Button1.Name = "monoFlat_Button1";
             this.monoFlat_Button1.Size = new System.Drawing.Size(120, 26);
             this.monoFlat_Button1.TabIndex = 12;
@@ -221,7 +221,7 @@
             // 
             this.monoFlat_CheckBox1.Checked = false;
             this.monoFlat_CheckBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.monoFlat_CheckBox1.Location = new System.Drawing.Point(8, 8);
+            this.monoFlat_CheckBox1.Location = new System.Drawing.Point(10, 8);
             this.monoFlat_CheckBox1.Name = "monoFlat_CheckBox1";
             this.monoFlat_CheckBox1.Size = new System.Drawing.Size(167, 16);
             this.monoFlat_CheckBox1.TabIndex = 11;
